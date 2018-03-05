@@ -1,5 +1,7 @@
 ZCZC Sistem Operasi 2018 Awal (1)
 
-ZCZC W01
+ZCZC W01 week-1 selesai
 
-ZCZC Sudah mengerjakan demo W02
+ZCZC W02 Sudah mengerjakan demo week-2
+
+ZCZC W03 Selesai!
