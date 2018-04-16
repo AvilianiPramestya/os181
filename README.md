@@ -7,3 +7,7 @@ ZCZC W02 Sudah mengerjakan demo week-2
 ZCZC W03 Selesai!
 
 ZCZC W04 sudah selesai
+
+ZCZC W05 sudah mengerjakan demo W05
+
+ZCZC W06 week-6 selesai
